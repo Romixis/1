@@ -1,0 +1,51 @@
+C:\Users\eduar\source\repos\Lab1\Lab1\bin\Debug\net6.0-windows\Lab1.exe
+C:\Users\eduar\source\repos\Lab1\Lab1\bin\Debug\net6.0-windows\Lab1.deps.json
+C:\Users\eduar\source\repos\Lab1\Lab1\bin\Debug\net6.0-windows\Lab1.runtimeconfig.json
+C:\Users\eduar\source\repos\Lab1\Lab1\bin\Debug\net6.0-windows\Lab1.dll
+C:\Users\eduar\source\repos\Lab1\Lab1\bin\Debug\net6.0-windows\ref\Lab1.dll
+C:\Users\eduar\source\repos\Lab1\Lab1\bin\Debug\net6.0-windows\Lab1.pdb
+C:\Users\eduar\source\repos\Lab1\Lab1\obj\Debug\net6.0-windows\Lab1.csproj.AssemblyReference.cache
+C:\Users\eduar\source\repos\Lab1\Lab1\obj\Debug\net6.0-windows\Lab1.Form1.resources
+C:\Users\eduar\source\repos\Lab1\Lab1\obj\Debug\net6.0-windows\Lab1.csproj.GenerateResource.cache
+C:\Users\eduar\source\repos\Lab1\Lab1\obj\Debug\net6.0-windows\Lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduar\source\repos\Lab1\Lab1\obj\Debug\net6.0-windows\Lab1.AssemblyInfoInputs.cache
+C:\Users\eduar\source\repos\Lab1\Lab1\obj\Debug\net6.0-windows\Lab1.AssemblyInfo.cs
+C:\Users\eduar\source\repos\Lab1\Lab1\obj\Debug\net6.0-windows\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\eduar\source\repos\Lab1\Lab1\obj\Debug\net6.0-windows\Lab1.dll
+C:\Users\eduar\source\repos\Lab1\Lab1\obj\Debug\net6.0-windows\ref\Lab1.dll
+C:\Users\eduar\source\repos\Lab1\Lab1\obj\Debug\net6.0-windows\Lab1.pdb
+C:\Users\eduar\source\repos\Lab1\Lab1\obj\Debug\net6.0-windows\Lab1.genruntimeconfig.cache
+C:\Users\eduar\Desktop\Lab1 — копия\Lab1\bin\Debug\net6.0-windows\Lab1.exe
+C:\Users\eduar\Desktop\Lab1 — копия\Lab1\bin\Debug\net6.0-windows\Lab1.deps.json
+C:\Users\eduar\Desktop\Lab1 — копия\Lab1\bin\Debug\net6.0-windows\Lab1.runtimeconfig.json
+C:\Users\eduar\Desktop\Lab1 — копия\Lab1\bin\Debug\net6.0-windows\Lab1.dll
+C:\Users\eduar\Desktop\Lab1 — копия\Lab1\bin\Debug\net6.0-windows\ref\Lab1.dll
+C:\Users\eduar\Desktop\Lab1 — копия\Lab1\bin\Debug\net6.0-windows\Lab1.pdb
+C:\Users\eduar\Desktop\Lab1 — копия\Lab1\obj\Debug\net6.0-windows\Lab1.csproj.AssemblyReference.cache
+C:\Users\eduar\Desktop\Lab1 — копия\Lab1\obj\Debug\net6.0-windows\Lab1.Form1.resources
+C:\Users\eduar\Desktop\Lab1 — копия\Lab1\obj\Debug\net6.0-windows\Lab1.csproj.GenerateResource.cache
+C:\Users\eduar\Desktop\Lab1 — копия\Lab1\obj\Debug\net6.0-windows\Lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduar\Desktop\Lab1 — копия\Lab1\obj\Debug\net6.0-windows\Lab1.AssemblyInfoInputs.cache
+C:\Users\eduar\Desktop\Lab1 — копия\Lab1\obj\Debug\net6.0-windows\Lab1.AssemblyInfo.cs
+C:\Users\eduar\Desktop\Lab1 — копия\Lab1\obj\Debug\net6.0-windows\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\eduar\Desktop\Lab1 — копия\Lab1\obj\Debug\net6.0-windows\Lab1.dll
+C:\Users\eduar\Desktop\Lab1 — копия\Lab1\obj\Debug\net6.0-windows\ref\Lab1.dll
+C:\Users\eduar\Desktop\Lab1 — копия\Lab1\obj\Debug\net6.0-windows\Lab1.pdb
+C:\Users\eduar\Desktop\Lab1 — копия\Lab1\obj\Debug\net6.0-windows\Lab1.genruntimeconfig.cache
+C:\Users\roma_\Desktop\Lab1\Lab1\Lab1\bin\Debug\net6.0-windows\Lab1.exe
+C:\Users\roma_\Desktop\Lab1\Lab1\Lab1\bin\Debug\net6.0-windows\Lab1.deps.json
+C:\Users\roma_\Desktop\Lab1\Lab1\Lab1\bin\Debug\net6.0-windows\Lab1.runtimeconfig.json
+C:\Users\roma_\Desktop\Lab1\Lab1\Lab1\bin\Debug\net6.0-windows\Lab1.dll
+C:\Users\roma_\Desktop\Lab1\Lab1\Lab1\bin\Debug\net6.0-windows\Lab1.pdb
+C:\Users\roma_\Desktop\Lab1\Lab1\Lab1\obj\Debug\net6.0-windows\Lab1.csproj.AssemblyReference.cache
+C:\Users\roma_\Desktop\Lab1\Lab1\Lab1\obj\Debug\net6.0-windows\Lab1.Form1.resources
+C:\Users\roma_\Desktop\Lab1\Lab1\Lab1\obj\Debug\net6.0-windows\Lab1.csproj.GenerateResource.cache
+C:\Users\roma_\Desktop\Lab1\Lab1\Lab1\obj\Debug\net6.0-windows\Lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roma_\Desktop\Lab1\Lab1\Lab1\obj\Debug\net6.0-windows\Lab1.AssemblyInfoInputs.cache
+C:\Users\roma_\Desktop\Lab1\Lab1\Lab1\obj\Debug\net6.0-windows\Lab1.AssemblyInfo.cs
+C:\Users\roma_\Desktop\Lab1\Lab1\Lab1\obj\Debug\net6.0-windows\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\roma_\Desktop\Lab1\Lab1\Lab1\obj\Debug\net6.0-windows\Lab1.dll
+C:\Users\roma_\Desktop\Lab1\Lab1\Lab1\obj\Debug\net6.0-windows\refint\Lab1.dll
+C:\Users\roma_\Desktop\Lab1\Lab1\Lab1\obj\Debug\net6.0-windows\Lab1.pdb
+C:\Users\roma_\Desktop\Lab1\Lab1\Lab1\obj\Debug\net6.0-windows\Lab1.genruntimeconfig.cache
+C:\Users\roma_\Desktop\Lab1\Lab1\Lab1\obj\Debug\net6.0-windows\ref\Lab1.dll
